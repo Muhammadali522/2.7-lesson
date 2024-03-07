@@ -2,12 +2,16 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 body{
     background: rgb(32, 44, 54);
 }
 ul{
     list-style: none;
+}
+a{
+    text-decoration: none;
 }
 .bigheader{
     color: white;
